@@ -1,4 +1,4 @@
-docker_hub
-==========
+C listener running in Docker container and OpenShift 3.3
+========================================================
 
-Test with docker
+Test with Openshift 3.3 and in particular the Build pipeline newly proposed by RedHat
